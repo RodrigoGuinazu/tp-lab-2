@@ -1,0 +1,415 @@
+# depslib dependency file v1.0
+1637272195 source:c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp-final-lab-2\arboles.c
+	"arboles.h"
+
+1637273056 c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp-final-lab-2\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listas.h"
+	"peliculas.h"
+	"colores.h"
+
+1636758492 c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp-final-lab-2\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"colores.h"
+
+1637032086 source:c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp-final-lab-2\listas.c
+	"listas.h"
+
+1637006525 c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp-final-lab-2\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"peliculas.h"
+	"colores.h"
+
+1636776572 source:c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp-final-lab-2\peliculas.c
+	"peliculas.h"
+
+1636833757 source:c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp-final-lab-2\usuarios.c
+	"usuarios.h"
+
+1636833879 c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp-final-lab-2\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"colores.h"
+	"peliculas.h"
+	"arboles.h"
+	"listas.h"
+
+1637271938 source:c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp-final-lab-2\ldl.c
+	"ldl.h"
+
+1637270983 c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp-final-lab-2\ldl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"usuarios.h"
+	"listas.h"
+	"colores.h"
+	"arboles.h"
+
+1637270741 source:c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp-final-lab-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"usuarios.h"
+	"peliculas.h"
+	"arboles.h"
+	"listas.h"
+	"ldl.h"
+	"colores.h"
+
+1636204594 c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp-final-lab-2\colores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1636204356 source:c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp-final-lab-2\colores.c
+	"colores.h"
+
+1637278755 source:e:\usuarios\mantobani\desktop\tp-final-lab-2\arboles.c
+	"arboles.h"
+
+1637277849 e:\usuarios\mantobani\desktop\tp-final-lab-2\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listas.h"
+	"peliculas.h"
+	"colores.h"
+	<ctype.h>
+
+1636988524 e:\usuarios\mantobani\desktop\tp-final-lab-2\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"peliculas.h"
+	"colores.h"
+
+1637275607 e:\usuarios\mantobani\desktop\tp-final-lab-2\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"colores.h"
+
+1636190194 e:\usuarios\mantobani\desktop\tp-final-lab-2\colores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1636189956 source:e:\usuarios\mantobani\desktop\tp-final-lab-2\colores.c
+	"colores.h"
+
+1637281199 source:e:\usuarios\mantobani\desktop\tp-final-lab-2\ldl.c
+	"ldl.h"
+
+1637281199 e:\usuarios\mantobani\desktop\tp-final-lab-2\ldl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"usuarios.h"
+	"listas.h"
+	"colores.h"
+	"arboles.h"
+
+1637281199 e:\usuarios\mantobani\desktop\tp-final-lab-2\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"colores.h"
+	"peliculas.h"
+	"arboles.h"
+	"listas.h"
+
+1637014086 source:e:\usuarios\mantobani\desktop\tp-final-lab-2\listas.c
+	"listas.h"
+
+1637281199 source:e:\usuarios\mantobani\desktop\tp-final-lab-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"usuarios.h"
+	"peliculas.h"
+	"arboles.h"
+	"listas.h"
+	"ldl.h"
+	"colores.h"
+
+1636758572 source:e:\usuarios\mantobani\desktop\tp-final-lab-2\peliculas.c
+	"peliculas.h"
+
+1637282630 source:e:\usuarios\mantobani\desktop\tp-final-lab-2\usuarios.c
+	"usuarios.h"
+
+1637323452 source:e:\usuarios\mantobani\desktop\tp final\arboles.c
+	"arboles.h"
+
+1637321604 e:\usuarios\mantobani\desktop\tp final\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listas.h"
+	"peliculas.h"
+	"colores.h"
+	<ctype.h>
+
+1637321138 e:\usuarios\mantobani\desktop\tp final\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"peliculas.h"
+	"colores.h"
+
+1637239606 e:\usuarios\mantobani\desktop\tp final\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"colores.h"
+
+1636161394 e:\usuarios\mantobani\desktop\tp final\colores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1636161156 source:e:\usuarios\mantobani\desktop\tp final\colores.c
+	"colores.h"
+
+1637321122 source:e:\usuarios\mantobani\desktop\tp final\listas.c
+	"listas.h"
+
+1637346397 source:e:\usuarios\mantobani\desktop\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"usuarios.h"
+	"peliculas.h"
+	"arboles.h"
+	"listas.h"
+	"ldl.h"
+	"colores.h"
+
+1637245198 e:\usuarios\mantobani\desktop\tp final\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"colores.h"
+	"peliculas.h"
+	"arboles.h"
+	"listas.h"
+
+1637321996 e:\usuarios\mantobani\desktop\tp final\ldl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"usuarios.h"
+	"listas.h"
+	"colores.h"
+	"arboles.h"
+
+1636722572 source:e:\usuarios\mantobani\desktop\tp final\peliculas.c
+	"peliculas.h"
+
+1637246630 source:e:\usuarios\mantobani\desktop\tp final\usuarios.c
+	"usuarios.h"
+
+1637324766 source:e:\usuarios\mantobani\desktop\tp final\ldl.c
+	"ldl.h"
+
+1637341453 source:c:\users\rodri\desktop\tp final\arboles.c
+	"arboles.h"
+
+1637339604 c:\users\rodri\desktop\tp final\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listas.h"
+	"peliculas.h"
+	"colores.h"
+	<ctype.h>
+
+1637339139 c:\users\rodri\desktop\tp final\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"peliculas.h"
+	"colores.h"
+
+1637257606 c:\users\rodri\desktop\tp final\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"colores.h"
+
+1636175794 c:\users\rodri\desktop\tp final\colores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1636175556 source:c:\users\rodri\desktop\tp final\colores.c
+	"colores.h"
+
+1637339122 source:c:\users\rodri\desktop\tp final\listas.c
+	"listas.h"
+
+1637342749 source:c:\users\rodri\desktop\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"usuarios.h"
+	"peliculas.h"
+	"arboles.h"
+	"listas.h"
+	"ldl.h"
+	"colores.h"
+
+1637263198 c:\users\rodri\desktop\tp final\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"colores.h"
+	"peliculas.h"
+	"arboles.h"
+	"listas.h"
+
+1637339996 c:\users\rodri\desktop\tp final\ldl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"usuarios.h"
+	"listas.h"
+	"colores.h"
+	"arboles.h"
+
+1636740572 source:c:\users\rodri\desktop\tp final\peliculas.c
+	"peliculas.h"
+
+1637264630 source:c:\users\rodri\desktop\tp final\usuarios.c
+	"usuarios.h"
+
+1637342766 source:c:\users\rodri\desktop\tp final\ldl.c
+	"ldl.h"
+
+1637287452 source:c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp lab ii\tp final\arboles.c
+	"arboles.h"
+
+1637285604 c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp lab ii\tp final\arboles.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listas.h"
+	"peliculas.h"
+	"colores.h"
+	<ctype.h>
+
+1637285138 c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp lab ii\tp final\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"peliculas.h"
+	"colores.h"
+
+1637203606 c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp lab ii\tp final\peliculas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"colores.h"
+
+1636132594 c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp lab ii\tp final\colores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1636132356 source:c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp lab ii\tp final\colores.c
+	"colores.h"
+
+1637288766 source:c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp lab ii\tp final\ldl.c
+	"ldl.h"
+
+1637285996 c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp lab ii\tp final\ldl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"usuarios.h"
+	"listas.h"
+	"colores.h"
+	"arboles.h"
+
+1637209198 c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp lab ii\tp final\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"colores.h"
+	"peliculas.h"
+	"arboles.h"
+	"listas.h"
+
+1637285122 source:c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp lab ii\tp final\listas.c
+	"listas.h"
+
+1637310484 source:c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp lab ii\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"usuarios.h"
+	"peliculas.h"
+	"arboles.h"
+	"listas.h"
+	"ldl.h"
+	"colores.h"
+
+1636686572 source:c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp lab ii\tp final\peliculas.c
+	"peliculas.h"
+
+1637210630 source:c:\users\rodri\documents\facultad\tsp\2021\programacion ii\tp lab ii\tp final\usuarios.c
+	"usuarios.h"
+
