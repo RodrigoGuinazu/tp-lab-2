@@ -21,8 +21,8 @@ This program is replicating some features of an online streaming service
 * Delete his/her account
 
 ### Admin Credentials:
-email: admin@hotmail.com
-password: Admin
+- email: admin@hotmail.com
+- password: Admin
 
 ## - Admin have acces to the following features:
 * Add a movie to the platform
